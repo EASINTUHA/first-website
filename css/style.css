@@ -1,3 +1,6 @@
+*{
+    font-family: 'Work Sans';;
+}
 header{
     background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
@@ -48,3 +51,65 @@ padding-right: 230px;
     margin-left: 1100px;
     margin-right: 300px;
 }
+/*main section*/
+main{
+    margin-left: 206px;
+    margin-left: 200px;
+    margin-top: 131px;
+}
+.main-top{
+    display: flex;
+    margin-right: 87px;
+}
+.image-main{
+    width: 569px;
+    height: 723.3px;
+    margin-left: 87px;
+    border-right: 87px;
+}
+.main-top-2{
+    margin-top: 200px;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.main-about{
+width: 416px;
+height: 104px;
+left: 862px;
+top:1296px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+.main-description{
+    margin-top: 16px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+.main-developer-about{
+    margin-left: 10px;
+    display: flex;
+    line-height: 26px;
+    font-family: 'Work Sans';
+}
+
+
+
+
+
+
