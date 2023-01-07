@@ -149,7 +149,8 @@ text-align: center;
     background-image: url('../images/gradient3.png') ,url('../images/watch.png');
     height: 300px;
     width: 1140px;
-
+    background-repeat: no-repeat;
+    padding-bottom: 130px;
 }
 .down-section div{
     margin-top: 64px;
