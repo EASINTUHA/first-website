@@ -1,7 +1,7 @@
 *{
     font-family: 'Work Sans';;
 }
-/* header */
+/* --------------------------header------------------------*/
 header{
     background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
@@ -52,8 +52,8 @@ padding-right: 230px;
     margin-left: 1100px;
     margin-right: 230px;
 }
-/*main section*/
-/* main top */
+/*------------------------------main section--------------------------------*/
+/* ------------------------------main top--------------------------------- */
 main{
     margin-left: 206px;
     margin-top: 131px;
@@ -102,6 +102,7 @@ line-height: 26px;
 color: #444343;
 margin-right: 100px;
 }
+/* -----------------------------second section----------------------- */
 .second-section{
     display: flex;
     padding-top: 50px;
@@ -136,11 +137,7 @@ margin-right: 100px;
     color: #444343;
     padding-bottom: 10px;
 }
-
-
-
-
-
+/* --------------------------third section--------------------------- */
 .main-developer-about{
     margin-left: 10px;
     display: flex;
@@ -185,6 +182,7 @@ text-align: center;
 .icon-section img{
     align-items: center;
 } 
+/* -------forth section or  call now section or main last section ----------*/
 .down-section{
     background-image: url('../images/gradient3.png') ,url('../images/watch.png');
     height: 300px;
@@ -218,6 +216,7 @@ text-align: center;
 .btn-down-section{
     padding-left: 64px;
 }
+/* ------------------------------footer -----------------------------*/
 footer{
     height: 577px;
     width: 1600px;
@@ -248,9 +247,9 @@ footer section{
 .footer-left p{
     color: #FFFFFF;
 }
-::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+::placeholder {
     color: #F3F3F3;;
-    opacity: 1; /* Firefox */
+    opacity: 1;
   }
 .footer-left-descprition{
     font-family: 'Work Sans';
