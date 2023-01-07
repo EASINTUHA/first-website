@@ -67,7 +67,7 @@ main{
     border-right: 87px;
 }
 .main-top-2{
-    margin-top: 100px;
+    margin-top: 200px;
 width: 288px;
 height: 94px;
 left: 862px;
@@ -119,7 +119,7 @@ color: #444343;
     display: flex;
     text-align: center;
     padding-left: 50px;
-    padding-bottom: 150px;
+    padding-bottom: 80px;
 }
 .my-plan-icon{
     align-items: center;
@@ -182,9 +182,73 @@ footer{
     height: 577px;
     width: 100%;
     background-color: #151414;
+    display: flex;
 }
-
-
+footer section{
+    color: #F8F8F8;
+}
+.footer-left{
+    margin-left: 230px;
+    margin-top: 130px;
+    width: 485px;
+    height: 317px;
+}
+.footer-left h1{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+}
+.footer-right{
+    margin-top: 130px;
+    height: 204;
+    width: 325;
+    padding-left: 313px;
+}
+.footer-left p{
+    color: #FFFFFF;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #F3F3F3;;
+    opacity: 1; /* Firefox */
+  }
+.footer-left-descprition{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+}
+.email{
+    line-height: 26px;
+    padding-bottom: 8px;
+}
+.footer-icon{
+    display: flex;
+}
+.footer-icon img{
+    padding-right: 17px;
+}
+.subscrive{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.footer-right form{
+    color: #FFFFFF;
+}
+.enter-email{
+    height: 64px;
+    width: 325px;
+    border-radius: 7px;
+    border-color: #f3efef;
+    background-color: transparent;
+}
+#call-now{
+    margin-top: 16px;
+}
 
 
 
