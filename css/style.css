@@ -17,7 +17,6 @@ header{
     padding-left: 845px;
     width: 525px;
     height: 200px;
-    font-family: 'Work Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 65px;
@@ -73,7 +72,6 @@ width: 288px;
 height: 94px;
 left: 862px;
 top: 1178px;
-
 font-family: 'Work Sans';
 font-style: normal;
 font-weight: 700;
@@ -101,6 +99,47 @@ font-size: 16px;
 line-height: 26px;
 color: #444343;
 }
+.second-section{
+    display: flex;
+    padding-top: 50px;
+}
+.my-image{
+    height: 700px;
+    width: 500px;
+}
+.secod-section-div{
+    height: 700px;
+    width: 500px;
+    background-color: rgba(250, 250, 213, 0.5);;
+}
+.secod-section-div h1{
+    padding-right: 100px;
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #151414;
+}
+.main-about-2{
+    text-align:justify;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top:1296px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    padding-bottom: 10px;
+}
+
+
+
+
+
 .main-developer-about{
     margin-left: 10px;
     display: flex;
