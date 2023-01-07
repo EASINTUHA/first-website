@@ -245,6 +245,9 @@ color: #FFFFFF;
     border-radius: 7px;
     border-color: #f3efef;
     background-color: transparent;
+    padding-left: 15px;
+    color: #f3efef;
+    font-size: 18px;
 }
 #call-now{
     margin-top: 16px;
