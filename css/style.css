@@ -1,6 +1,7 @@
 *{
     font-family: 'Work Sans';;
 }
+/* header */
 header{
     background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
@@ -52,6 +53,7 @@ padding-right: 230px;
     margin-right: 230px;
 }
 /*main section*/
+/* main top */
 main{
     margin-left: 206px;
     margin-top: 131px;
@@ -106,7 +108,7 @@ margin-right: 100px;
 }
 .my-image{
     height: 700px;
-    width: 500px;
+    width: 800px;
 }
 .secod-section-div{
     height: 700px;
@@ -115,7 +117,7 @@ margin-right: 100px;
 }
 .secod-section-div h1{
     padding-right: 100px;
-    padding-top: 100px;
+    padding-top: 0px;
     text-align: center;
     font-weight: 700;
     font-size: 65px;
@@ -127,8 +129,6 @@ margin-right: 100px;
     width: 416px;
     height: 104px;
     left: 862px;
-    top:1296px;
-    font-family: 'Work Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
